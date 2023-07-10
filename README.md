@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data Science Portfolio
 Contains all the data science projects that I've worked on
 
 ## [Bike Sharing Demand Prediction](https://github.com/Sarath-Haridas/Bike_Sharing_Demand_Prediction)
